@@ -1,1 +1,1 @@
-echo "PoC" /tmp/PoC.txt
+echo "PoC" > /tmp/PoC.txt
