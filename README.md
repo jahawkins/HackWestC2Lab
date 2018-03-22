@@ -1,1 +1,1 @@
-echo "PoC2" > /tmp/PoC.txt
+echo "This is from cron" > /tmp/PoC.txt
