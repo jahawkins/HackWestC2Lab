@@ -1,1 +1,1 @@
-echo "This is from cron" > /tmp/PoC.txt
+whoami > /tmp/PoC.txt
